@@ -1,2 +1,2 @@
-# FlutterApps
-Repository for flutter applications I designed for fun
+# Question Answer App
+Repository for flutter application for question and answers that I designed for fun
